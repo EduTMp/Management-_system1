@@ -1,4 +1,4 @@
-# [Management-system](https://docs.google.com/spreadsheets/d/1VDj_TUVYIETJ8450qMmA0BffQf45tqBl7VpNRHaQFgM/edit#gid=1985599103)
+# [Management-system]( https://edutmp.github.io/Management-_system1/)
 
 Inventory &amp; Expense control
 
