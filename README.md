@@ -1,4 +1,4 @@
-# [Management-system]( https://edutmp.github.io/Management-_system1/)
+# [Control system management]( https://edutmp.github.io/Management-_system1/)
 
 Inventory &amp; Expense control
 
