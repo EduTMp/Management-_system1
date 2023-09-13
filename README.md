@@ -25,7 +25,7 @@ This problem statement addresses the need for implementing a Control Management 
 This is an overview of the refernce data.The following page was developed using the following functions: Vlookup & Xlookup. 
 The above functions resulted to the following data ER diagrams. The Primary Keys are highlighted in red while the Foreign keys are highlighted in blue
 
-![](Petronix Images/Petronix Data - Google Sheets - Google Chrome 7_19_2023 6_15_04 PM.png)
+![](Petronix Data - Google Sheets - Google Chrome 9_13_2023 9_40_56 PM.png)
 
 #***Dashboard***
 
@@ -40,7 +40,7 @@ Daily financial analysis in a business involves a systematic examination of the 
 - Data Verification and Cleaning: The gathered data is thoroughly verified for accuracy and cleaned to ensure that any errors or inconsistencies are identified and rectified.
 I used functions to automate the daily analysis.
 
-![](Alimic images/Formulate daily analysis.png)
+![](Petronix Images/Petronix Data - Google Sheets - Google Chrome 7_19_2023 6_15_04 PM.png)
 
 In the preceding stages, extensive work was undertaken to gather and analyze the necessary data, with the ultimate aim of producing meaningful results. The initial phase involved meticulous data collection from various sources, such as sales, creditors, debtors,expenses and other operational metrics. Rigorous data cleaning and validation processes were employed to ensure the accuracy and integrity of the dataset.
 
