@@ -39,22 +39,12 @@ Daily financial analysis in a business involves a systematic examination of the 
 - Data Verification and Cleaning: The gathered data is thoroughly verified for accuracy and cleaned to ensure that any errors or inconsistencies are identified and rectified.
 I used functions to automate the daily analysis.
 
-![](Petronix Images/Petronix Data - Google Sheets - Google Chrome 7_19_2023 6_15_04 PM.png)
+![](Petronix Data - Google Sheets - Google Chrome 9_13_2023 10_05_44 PM.png)
 
 In the preceding stages, extensive work was undertaken to gather and analyze the necessary data, with the ultimate aim of producing meaningful results. The initial phase involved meticulous data collection from various sources, such as sales, creditors, debtors,expenses and other operational metrics. Rigorous data cleaning and validation processes were employed to ensure the accuracy and integrity of the dataset.
 
-![](Alimic images/Owners page.png)
+## Recommendation
 
-#***Automated financial statements.***
-
-The automation of financial statements streamlines the process, saving time and resources. Manual preparation of financial statements can be time-consuming and labor-intensive, especially for large and complex companies. Automation allows for efficient generation, freeing up valuable resources that can be utilized for other critical tasks. The page was automated using VLOOKUP, IFSUMS, SUMS and relative references from other sheets.
-
-![](Alimic images/formulate automated financial statements.png)
-
-Automation enables the generation of financial statements in a timely manner, providing up-to-date information for decision-making. Additionally, automated statements can be easily accessed and shared across multiple platforms or with various stakeholders, enhancing transparency and accessibility.
-
-![](Alimic images/automated financial statements.png)
-
-# Recommendation
-
-Based on the analysis conducted, the business faced low sales, resulting in a higher expenditure on employee salaries. To address this, I recommended a shift towards a commission-based payment structure instead of a fixed monthly salary. This approach incentivize sellers to increase their sales efforts while discouraging any misuse of fuel resources. Furthermore, I advised the company to consider purchasing oil in larger quantities to benefit from economies of scale and reduce costs. Additionally, the analysis revealed that sales peaked during school holiday breaks, indicating that the primary target market consisted of middle-aged customers between the ages of 12 and 18. As a result, I suggested that the company should explore opportunities in school canteens to tap into a larger market and maintain high sales even on regular school days.
+Develop a user-friendly website and consider online ordering for convenience store items or prepayment for fuel, making it easier for customers to plan their visits.
+Offer a variety of payment options, including mobile payment apps, credit cards, and cash. Ensure that payment processing is fast and reliable.
+mplement efficient inventory management systems to ensure fuel and convenience store items are always in stock. Use historical data to predict demand and order supplies accordingly to prevent stockouts.
