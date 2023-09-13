@@ -7,7 +7,7 @@ Inventory &amp; Expense control
 Welcome to the introduction of the Control Management System Development Project, a comprehensive 'software' solution designed to streamline and enhance control management processes. This project is an excellent addition to a developer's portfolio, showcasing your expertise in designing and implementing robust systems that improve operational efficiency and optimize decision-making.
 
 # Model Overview 
-***Raw data provided***
+***Raw data input***
 
 ![](Petronix Images/Petronix Data - Google Sheets - Google Chrome 7_19_2023 6_14_26 PM.png)
 
@@ -30,7 +30,7 @@ Efficiency Unleashed: Mastering System Management in the Digital Age
 This is an overview of the reference data.The following page was developed using the following functions: Vlookup & Xlookup. 
 The above functions resulted to the following data ER diagrams. The Primary Keys are highlighted in red while the Foreign keys are highlighted in blue.
 
-![](Petronix Data - Google Sheets - Google Chrome 6_30_2023 10_42_00 AM.png)
+![](Petronix Images/Petronix Data - Google Sheets - Google Chrome 7_19_2023 6_15_04 PM.png)
 
 #***Daily Analysis***
 
