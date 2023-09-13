@@ -2,16 +2,16 @@
 
 Inventory &amp; Expense control
 
-#***Introduction***
+***Introduction***
 
 Welcome to the introduction of the Control Management System Development Project, a comprehensive 'software' solution designed to streamline and enhance control management processes. This project is an excellent addition to a developer's portfolio, showcasing your expertise in designing and implementing robust systems that improve operational efficiency and optimize decision-making.
 
-# Model Overview 
+ Model Overview 
 ***Raw data input***
 
 ![](Petronix Images/Petronix Data - Google Sheets - Google Chrome 7_19_2023 6_14_26 PM.png)
 
-#***Problem Statement***
+***Problem Statement***
 
 This problem statement addresses the need for implementing a Control Management System (CMS) within an oil company. The oil industry operates in a complex and highly regulated environment, with numerous risks and compliance requirements. The current manual and fragmented control management processes pose significant challenges in ensuring effective control implementation, monitoring, and reporting. Therefore, there is an urgent need to develop a CMS tailored to the unique needs of the oil company to enhance control efficiency, mitigate risks, and ensure compliance with industry regulations.
 -Inefficient Control Implementation
@@ -20,19 +20,19 @@ This problem statement addresses the need for implementing a Control Management 
 -Lack of Integration and Data Integrity
 
 
-#***Cover page***
+***Cover page***
 Efficiency Unleashed: Mastering System Management in the Digital Age
 
 ![](Petronix Data - Google Sheets - Google Chrome 9_13_2023 9_40_56 PM.png)
 
-#***Reference Diagrams***
+***Reference Diagrams***
 
 This is an overview of the reference data.The following page was developed using the following functions: Vlookup & Xlookup. 
 The above functions resulted to the following data ER diagrams. The Primary Keys are highlighted in red while the Foreign keys are highlighted in blue.
 
 ![](Petronix Images/Petronix Data - Google Sheets - Google Chrome 7_19_2023 6_15_04 PM.png)
 
-#***Daily Analysis***
+***Analysis***
 
 Daily financial analysis in a business involves a systematic examination of the company's financial data on a day-to-day basis. It is a crucial practice that provides real-time insights into the financial health and performance of the organization. The process typically includes the following key activities:
 - The first step involved collecting financial data from various sources, such as sales records, expenses, inventory, cash flow statements, and other relevant financial documents.
