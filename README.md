@@ -22,10 +22,10 @@ This problem statement addresses the need for implementing a Control Management 
 
 #***Cover page***
 
-This is an overview of the model from the coverpage.The following page was developed using the following functions: FIND/LEFT/RIGHT/CELL/LENGTH. 
-The above functions resulted to the following cover page. The functions listed above are used to make the sheet tittles more dynamic and easy to link using a hyperlink.
+This is an overview of the refernce data.The following page was developed using the following functions: Vlookup & Xlookup. 
+The above functions resulted to the following data ER diagrams. The Primary Keys are highlighted in red while the Foreign keys are highlighted in blue
 
-![](Alimic images/cover.png)
+![](Petronix Images/Petronix Data - Google Sheets - Google Chrome 7_19_2023 6_15_04 PM.png)
 
 #***Dashboard***
 
