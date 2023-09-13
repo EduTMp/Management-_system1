@@ -21,15 +21,14 @@ This problem statement addresses the need for implementing a Control Management 
 
 
 #***Cover page***
-
-This is an overview of the refernce data.The following page was developed using the following functions: Vlookup & Xlookup. 
-The above functions resulted to the following data ER diagrams. The Primary Keys are highlighted in red while the Foreign keys are highlighted in blue
+Efficiency Unleashed: Mastering System Management in the Digital Age
 
 ![](Petronix Data - Google Sheets - Google Chrome 9_13_2023 9_40_56 PM.png)
 
-#***Dashboard***
+#***Reference Diagrams***
 
-Upon completing the data cleaning and transformation process, I identified several financial trends and pinpoint the underlying reasons for the business's poor performance. The company was adversely affected by macroeconomic factors, namely an elevated level of inflation, the ongoing conflict in Ukraine, and the impact of the COVID-19 pandemic. I observed that the substantial profit margins were eroded by the soaring cost of inventory, specifically with regards to oil as the primary contributor, followed by significant price fluctuations in fuel. Additionally, a decline in sales trends became apparent when compared to previous years, primarily attributed to the economic shutdown preceding the onset of the COVID-19 crisis.
+This is an overview of the reference data.The following page was developed using the following functions: Vlookup & Xlookup. 
+The above functions resulted to the following data ER diagrams. The Primary Keys are highlighted in red while the Foreign keys are highlighted in blue.
 
 ![](Petronix Data - Google Sheets - Google Chrome 6_30_2023 10_42_00 AM.png)
 
